@@ -1,0 +1,3 @@
+Delivery Location 1 - Shortest Route: 0 -> 1, Distance: 8
+Delivery Location 2 - Shortest Route: 0 -> 2, Distance: 6
+Delivery Location 3 - Shortest Route: No route exists, Distance: Infinity (Location 3 is unreachable from the central warehouse)
